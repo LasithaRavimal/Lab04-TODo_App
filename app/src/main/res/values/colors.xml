@@ -3,5 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="mainBackgroundColor">#EEE4B1</color>
+    <color name="dialoggpage">#5F374B</color>
     <color name="teal_200">#8C6A5D</color>
 </resources>
